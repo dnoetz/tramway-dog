@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+.different-text > a:hover {
+    color: gray;
+}
+
+#nav-logo {
+    width: 20%;
+    height: 90%;
+    margin: 10px;
+    /* justify-content: center; */
+}
+
+#nav-link-container > a:hover {
+    color: gray;
+}
+
+#home {
+    margin-top: 10vh;
+}
+
+#hero {
+    background-image: url('https://i.imgur.com/NKfLD1e.jpg');
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+#hero-text {
+    color: white;
+    font-size: 3em;
+    font-family: 'londrina solid';
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 10px; 
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+#diff-img-container {
+    background-color: black;
+    width: 100vw;
+    display: flex;
+}
+
+#different-img {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#diff-text-container {
+    padding: 10px;
+
+}
+
+.different-head {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'londrina solid';
+    font-weight: bold;
+    margin: 20px 0px;
+}
+
+.different-text {
+    font-size: 1.5rem;
+    font-family: 'londrina solid';
+}
+
+@media screen and (min-width: 900px) {
+    #nav-logo {
+        width: 5%;
+        height: 90%;
+        margin: 10px;
+    }
+
+    #different {
+        display: flex;
+    }
+
+    #diff-img-container {
+        width: 50%;
+        background-color: white;
+    }
+    
+    #different-img {
+        background-color: black;
+        width: 50%;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    
+    #diff-text-container {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    span {
+        font-size: 2rem;
+        text-decoration: underline;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    #hero {
+        background-position: center;
+    }
+    
+}
