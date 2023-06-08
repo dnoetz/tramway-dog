@@ -76,6 +76,10 @@ a {
     font-family: 'londrina solid';
 }
 
+#about {
+    margin-top: 10vh;
+}
+
 @media screen and (min-width: 900px) {
     #nav-logo {
         width: 5%;
