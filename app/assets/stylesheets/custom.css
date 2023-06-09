@@ -224,7 +224,8 @@ a {
     font-size: 3rem;
     font-family: 'londrina solid';
     font-weight: bold;
-    margin: 20px auto;
+    margin: 10px auto;
+    padding: 20px;
 }
 
 .testimonials-author {
@@ -238,6 +239,23 @@ a {
     font-family: 'londrina solid';
     margin: 20px auto;
 }
+
+/* .testimonials-text-container {
+    width: 75%;
+    margin: auto;
+} */
+
+.testimonials-img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.testimonials-img {
+    width: 95%;
+    margin: 20px auto;
+}
+
+
 
 @media screen and (min-width: 550px) {
     #img-two {
@@ -292,7 +310,7 @@ a {
     #about-section-container {
         display: flex;
         padding: 10px;
-        width: 80%;
+        width: 90%;
         margin: 0 auto;
     }
 
@@ -323,7 +341,7 @@ a {
         flex-wrap: wrap;
         justify-content: space-evenly;
         margin: auto;
-        width: 80%;
+        width: 100%;
     }
 
     .team-member {
@@ -336,6 +354,27 @@ a {
     .team-img {
         width: 90%;
         height: 60%;
+    }
+
+    #services-container {
+        width: 90%;
+    }
+
+    #testimonials-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 90%;
+    }
+
+    .testimonials-text-container {
+        width: 75%;
+        margin: auto;
+    }
+
+    .testimonials-img {
+        width: 75%;
+        margin: 20px auto;
     }
 }
 
@@ -365,6 +404,16 @@ a {
         padding: 10px;
     }
 
+    .testimonials-section-container {
+        width: 40%
+    }
+
+    #testimonials-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 90%;
+    }
 }
 
 @media screen and (min-width: 1200px) {
@@ -374,5 +423,9 @@ a {
 
     .services-img {
         width: 50%;
+    }
+
+    .testimonials-section-container {
+        width: 40%
     }
 }
