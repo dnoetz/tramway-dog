@@ -8,21 +8,20 @@ function Different() {
         </div>
         <div id="diff-text-container">
           <div id="diff-text-top">
-            <p class="different-head">Why choose us?</p>
-            <p class="different-text">
+            <p className="different-head">Why choose us?</p>
+            <p className="different-text">
               Here at Tramway Dog Grooming we work and elevate the concept of fear-free grooming. Your dog will never be considered a task to be completed. No two dogs are the same and we will work with your dog to learn what works best for them. Through this process we work to earn their trust further reducing their level of stress. It is our promise that to us they will never be just a dog, they’re family. 
             </p>
           </div>
           <div id="diff-text-bottom">
-            <p class="different-head">Interested in booking? Give us a call, or walk in!</p>
-            <p class="different-text">
+            <p className="different-head">Interested in booking? Give us a call, or walk in!</p>
+            <p className="different-text">
               <span>Contact by phone: </span>
               <br />
               <br />
-              <a href="tel:505-508-4278">
-              (505) 508-4278 
+              <a href="tel:919-292-1711">
+              (919)-292-1711 
               </a>
-              <br />
               <br />
               <br />
               <span>Visit us in person: </span>
