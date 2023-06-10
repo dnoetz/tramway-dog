@@ -39,14 +39,14 @@ function MeetTeam() {
                 </p>
             </div>
             <div className="team-member">
-                <img className="team-img" src="https://i.imgur.com/ijRQskv.jpg"/>
+                <img className="team-img" src="https://i.imgur.com/fEOfMxR.jpg"/>
                 <p className="team-name">Mackenzie</p>
                 <p className="team-title">Groomer</p>
                 <p className='team-bio'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Mackenzie has been grooming for five years and absolutely loves what she does! She has experience with all different ages, temperaments, and breeds. Some of her favorite things to do are profile trims, deshed treatments, and poodles!
                     <br />
                     <br />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    In her spare time, she enjoys spending time with family, playing volleyball, and doing puzzles.
                 </p>
             </div>
         </div>

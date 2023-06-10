@@ -144,7 +144,8 @@ a {
 .team-img {
     margin: 10px auto;
     border: 2px solid white;
-    height: 80%
+    height: 80%;
+    /* width: 90%; */
 }
 
 .team-name {
@@ -352,7 +353,7 @@ a {
     }
 
     .team-img {
-        width: 90%;
+        /* width: ; */
         height: 60%;
     }
 
@@ -382,6 +383,10 @@ a {
 
     #hero {
         background-position: center;
+    }
+
+    .team-img {
+        width: 90%
     }
     
 }

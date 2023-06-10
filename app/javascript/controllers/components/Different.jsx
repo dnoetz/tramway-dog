@@ -14,7 +14,7 @@ function Different() {
             </p>
           </div>
           <div id="diff-text-bottom">
-            <p className="different-head">Interested in booking? Give us a call, or walk in!</p>
+            <p className="different-head">Interested in booking? Give us a call!</p>
             <p className="different-text">
               <span>Contact by phone: </span>
               <br />
