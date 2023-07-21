@@ -4,7 +4,7 @@ function Different() {
   return (
     <div id="different">
         <div id="diff-img-container">
-            <img id="different-img" src="https://i.imgur.com/8fFr8Ls.png"/>
+            <img id="different-img" src="https://i.imgur.com/xrKTxFV.jpg"/>
         </div>
         <div id="diff-text-container">
           <div id="diff-text-top">

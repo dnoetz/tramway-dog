@@ -48,20 +48,13 @@ a {
 }
 
 #diff-img-container {
-    /* width: 100vw; */
     display: flex;
+    align-items: center;
 }
 
 #different-img {
-    width: 70%;
-    height: 80%;
-    margin: auto;
-    margin-top: 20px;
-    background-color: black;
-    /* width: 50%; */
-        padding: 20px;
-        border-radius: 10px;
-
+    width: 95%;
+    margin: 0.5em auto;
 }
 
 #diff-text-container {
@@ -95,16 +88,8 @@ a {
 }
 
 .about-img {
-    width: 80%;
-    margin: 20px auto;
-}
-
-#img-two {
-    display: none;
-}
-
-#img-three {
-    display: none;
+    width: 95%;
+    margin: 0.5em auto;
 }
 
 #about-head {
@@ -170,13 +155,13 @@ a {
     margin-top: 10vh;
 }
 
-#services-container {
+.services-container {
     padding: 10px;
     margin: auto;
     /* display: flex; */
 }
 
-#services-head {
+.services-head {
     text-align: center;
     font-size: 3rem;
     font-family: 'londrina solid';
@@ -256,7 +241,38 @@ a {
     margin: 20px auto;
 }
 
+#prices {
+    margin-top: 10vh;
+}
 
+#prices-container {
+    padding: 10px;
+    margin: auto;
+}
+
+#prices-content {
+    display: flex;
+    flex-direction: column;
+}
+
+#prices-head {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'londrina solid';
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+#prices-text {
+    font-size: 1.5rem;
+    font-family: 'londrina solid';
+    margin: 20px auto;
+}
+
+#prices-img {
+    width: 100%;
+    margin: 20px auto;
+}
 
 @media screen and (min-width: 550px) {
     #img-two {
@@ -274,6 +290,7 @@ a {
 }
 
 @media screen and (min-width: 900px) {
+
     #nav-logo {
         width: 5%;
         height: 90%;
@@ -285,15 +302,19 @@ a {
     }
 
     #diff-img-container {
-        width: 50%;
+        width: 75%;
         background-color: white;
+        display: flex;
+        align-items: center;
     }
     
     #different-img {
-        background-color: black;
-        width: 50%;
-        padding: 20px;
-        border-radius: 10px;
+        /* background-color: black; */
+        /* width: 50%; */
+        /* padding: 20px; */
+        /* border-radius: 10px; */
+        height: 65%;
+        margin: 0.5em auto;
     }
     
     #diff-text-container {
@@ -315,6 +336,16 @@ a {
         margin: 0 auto;
     }
 
+    #about-flex-container {
+        display: flex;
+        align-items: center;
+    }
+
+    #about-text {
+        width: 50%;
+        padding: 10px;
+    }
+
     #about-text-container {
         /* width: 50%; */
         padding: 10px;
@@ -323,18 +354,14 @@ a {
     #about-img-container {
         /* width: 50%; */
         padding: 10px;
-        width: 80%;
+        width: 50%;
         margin: 0 auto;
         justify-content: space-evenly;
     }
 
     .about-img {
-        width: 30%;
-        margin: 20px auto;
-    }
-
-    #img-three {
-        display: inherit;
+        width: 80%;
+        margin: 0.5em auto;
     }
 
     #team-container {
@@ -357,7 +384,7 @@ a {
         height: 60%;
     }
 
-    #services-container {
+    .services-container {
         width: 90%;
     }
 
@@ -375,6 +402,16 @@ a {
 
     .testimonials-img {
         width: 75%;
+        margin: 20px auto;
+    }
+
+    #prices-content {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #prices-img {
+        width: 40%;
         margin: 20px auto;
     }
 }

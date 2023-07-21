@@ -98,6 +98,18 @@ const Navbar = () => {
                         </MenuItem>
                         <MenuItem onClick={handleCloseNavMenu}>
                             <Link
+                                href="/prices"
+                                sx={{
+                                textDecoration: 'none',
+                                color: 'black',
+                                fontFamily: 'londrina solid',
+                                }}
+                            >
+                                Prices
+                            </Link>
+                        </MenuItem>
+                        <MenuItem onClick={handleCloseNavMenu}>
+                            <Link
                                 href="/testimonials"
                                 sx={{
                                 textDecoration: 'none',
@@ -108,18 +120,6 @@ const Navbar = () => {
                                 Testimonials
                             </Link>
                         </MenuItem>
-                        {/* <MenuItem onClick={handleCloseNavMenu}>
-                            <Link
-                                href="/contact"
-                                sx={{
-                                textDecoration: 'none',
-                                color: 'black',
-                                fontFamily: 'londrina solid',
-                                }}
-                            >
-                                Contact Us
-                            </Link>
-                        </MenuItem> */}
                     </Menu>
                 </Box>
                 
@@ -168,6 +168,17 @@ const Navbar = () => {
                     </Link>
 
                     <Link
+                        href="/prices"
+                        sx={{
+                            textDecoration: 'none',
+                            color: 'white',
+                            fontFamily: 'londrina solid',
+                        }}
+                    >
+                        Prices
+                    </Link>
+
+                    <Link
                         href="/testimonials"
                         sx={{
                             textDecoration: 'none',
@@ -177,17 +188,6 @@ const Navbar = () => {
                     >
                         Testimonials
                     </Link>
-
-                    {/* <Link
-                        href="/contact"
-                        sx={{
-                            textDecoration: 'none',
-                            color: 'white',
-                            fontFamily: 'londrina solid',
-                        }}
-                    >
-                        Contact Us
-                    </Link> */}
                 </Box>
                 
                 {/* <img id="nav-logo" src="https://i.imgur.com/8fFr8Ls.png" /> */}

@@ -13,6 +13,9 @@ application.register("contact", ContactController)
 import HelloController from "./hello_controller"
 application.register("hello", HelloController)
 
+import PricesController from "./prices_controller"
+application.register("prices", PricesController)
+
 import ReactController from "./react_controller"
 application.register("react", ReactController)
 
