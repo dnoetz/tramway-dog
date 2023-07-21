@@ -32,10 +32,10 @@ function MeetTeam() {
                 <p className="team-name">Melanie</p>
                 <p className="team-title">Groomer</p>
                 <p className='team-bio'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    Melanie has been working in the grooming industry for over 5 years. She started out in a small mom and pop shop as a bather in paradise PA , worked under a master groomer for a summer then spent two years at a corporate salon and has been working at private salons since. Her favorite breeds include spaniels ( she owns a springer) , setters, and hounds. 
                     <br />
                     <br />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                    In her free time she enjoys spending time with her family, traveling up north to visit family, and supporting small businesses.
                 </p>
             </div>
             <div className="team-member">
