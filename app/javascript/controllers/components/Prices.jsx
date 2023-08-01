@@ -8,7 +8,7 @@ function Prices() {
         <div id='prices-container'>
             <p id='prices-head'>Prices</p>
             <div id='prices-content'>
-                <img id='prices-img' src='https://i.imgur.com/7d3ZPR1.jpg'/>
+                <img id='prices-img' src='https://i.imgur.com/jG4CBkS.jpg'/>
                 <p id='prices-text'>
                     Nails are done as a walk in service, Monday-Friday 8am to 4pm.
                     <br/>

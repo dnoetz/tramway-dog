@@ -28,7 +28,7 @@ a {
 }
 
 #hero {
-    background-image: url('https://i.imgur.com/NKfLD1e.jpg');
+    background-image: url('https://i.imgur.com/xrKTxFV.jpg');
     background-size: cover;
     height: 90vh;
     display: flex;
@@ -406,13 +406,16 @@ a {
     }
 
     #prices-content {
-        flex-direction: row;
         align-items: center;
     }
 
     #prices-img {
         width: 40%;
         margin: 20px auto;
+    }
+
+    #prices-text {
+        width: 40%;
     }
 }
 
