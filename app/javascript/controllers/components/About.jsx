@@ -14,7 +14,7 @@ function About() {
               Here at Tramway Dog Grooming we always put the care of your dogs first. Our salon has been designed to give your dogs the least stressful experience possible while providing the best quality and comfort! Our salon layout is designed for your dog to receive the highest level of one on one care possible in a salon setting. 
             </p>
             <div id="about-img-container">
-              <img className="about-img" src="https://i.imgur.com/URf2TGj.jpg"/>
+              <img className="about-img" src="https://i.imgur.com/dEb7Dar.jpg"/>
             </div>
           </div>
         </div>

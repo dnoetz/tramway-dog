@@ -3,9 +3,9 @@ import React from 'react'
 function Different() {
   return (
     <div id="different">
-        <div id="diff-img-container">
+        {/* <div id="diff-img-container">
             <img id="different-img" src="https://i.imgur.com/NKfLD1e.jpg" alt='Tramway Dog groomer group picture'/>
-        </div>
+        </div> */}
         <div id="diff-text-container">
           <div id="diff-text-top">
             <p className="different-head">Why choose us?</p>

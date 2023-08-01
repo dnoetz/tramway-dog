@@ -16,6 +16,9 @@ function Prices() {
                     $20 for nails (includes grinding to get them as short and smooth as possible) 
                     <br/>
                     $25 for Pawdicure Package (includes nail grinding & paw pad shaving)
+                    <br/>
+                    <br/>
+                    **Final prices are subject to change based off of weight, coat condition & temperament**
                 </p>
             </div>
         </div>
