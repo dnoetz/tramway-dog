@@ -32,6 +32,9 @@ function Different() {
               <br />
               Sanford, NC 27330
               </a>
+              <br />
+              <br />
+              Monday-Friday 8AM to 4PM
             </p>
           </div>
         </div>
