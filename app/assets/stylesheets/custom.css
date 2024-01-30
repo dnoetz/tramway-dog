@@ -30,6 +30,7 @@ a {
 #hero {
     background-image: url('https://i.imgur.com/IuMszjJ.jpg');
     background-size: cover;
+    background-position: center bottom;
     height: 90vh;
     display: flex;
     flex-direction: column;
