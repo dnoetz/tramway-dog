@@ -6,7 +6,7 @@ function MeetTeam() {
         <p id="meet-head">Meet the Team!</p>
         <div id="team-container">
             <div className="team-member">
-                <img className="team-img" src="https://i.imgur.com/CYz7f74.jpg"/>
+                <img className="team-img" src="https://i.imgur.com/lzwI5T6.jpg"/>
                 <p className="team-name">Jackey</p>
                 <p className="team-title">Owner/Groomer</p>
                 <p className='team-bio'>
@@ -17,7 +17,7 @@ function MeetTeam() {
                 </p>
             </div>
             <div className="team-member">
-                <img className="team-img" src="https://i.imgur.com/RVf2UuO.jpg"/>
+                <img className="team-img" src="https://i.imgur.com/d6UKJZV.jpg"/>
                 <p className="team-name">Ian</p>
                 <p className="team-title">Owner/Bather</p>
                 <p className='team-bio'>
@@ -28,7 +28,7 @@ function MeetTeam() {
                 </p>
             </div>
             <div className="team-member">
-                <img className="team-img" src="https://i.imgur.com/ijRQskv.jpg"/>
+                <img className="team-img" src="https://i.imgur.com/c2WIye9.jpg"/>
                 <p className="team-name">Melanie</p>
                 <p className="team-title">Groomer</p>
                 <p className='team-bio'>
@@ -39,7 +39,7 @@ function MeetTeam() {
                 </p>
             </div>
             <div className="team-member">
-                <img className="team-img" src="https://i.imgur.com/fEOfMxR.jpg"/>
+                <img className="team-img" src="https://i.imgur.com/GeXiVJG.jpg"/>
                 <p className="team-name">Mackenzie</p>
                 <p className="team-title">Groomer</p>
                 <p className='team-bio'>

@@ -63,6 +63,17 @@ function Services() {
         </div>
         <div className="services-section-container">
           <div className="services-img-container">
+            <img className="services-img" src="https://i.imgur.com/VLEeZvk.jpg"/>
+          </div>
+          <div className="services-text-container">
+            <p className="services-name">Aromatherapy Package</p>
+            <p className="services-text">
+            Does your pup suffer from anxiety and/or get stressed by the grooming process? This Aromatherapy Package is formulated especially for pets to create a soothing spa experience! This special formulation is hypoallergenic and consists of lavender and chamomile and will provide a spa like experience that is calming and will clean the coat thoroughly while also soothing dry, itchy skin.
+            </p>
+          </div>
+        </div>
+        <div className="services-section-container">
+          <div className="services-img-container">
             <img className="services-img" src="https://i.imgur.com/tS8Hni6.jpg"/>
           </div>
           <div className="services-text-container">
