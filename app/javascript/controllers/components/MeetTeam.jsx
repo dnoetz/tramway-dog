@@ -49,6 +49,18 @@ function MeetTeam() {
                     In her spare time, she enjoys spending time with family, playing volleyball, and doing puzzles.
                 </p>
             </div>
+            <div className="team-member">
+                <img className="team-img" src="https://i.imgur.com/KcE9BXy.jpg"/>
+                <p className="team-name">Cynthia</p>
+                <p className="team-title">Groomer</p>
+                <p className='team-bio'>
+                Cynthia is a hardworking and passionate dog groomer with 4 years of experience.  She has worked with animals most of her life and is always searching for a way to help her fellow pet owners. Her favorite breed to groom is schnauzers. She strives to continue to grow her grooming career and learn as much as possible with the people here in Sanford (her hometown) and she looks forward to working with you!
+                    <br />
+                    <br />
+                    Cynthia grew up with horses and loves the outdoors. Her favorite past time is being on the boat or kayaking around Jordan Lake.
+                </p>
+            </div>
+            
         </div>
     </div>
   )
